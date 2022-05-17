@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Zac Tucak",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ]
 }
